@@ -1,5 +1,5 @@
 import './style.css';
-import './bases/06-destructuring';
+import './bases/exercice-01';
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
